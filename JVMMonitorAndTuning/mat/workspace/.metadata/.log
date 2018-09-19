@@ -1,0 +1,18 @@
+!SESSION 2018-09-19 11:38:08.897 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.mat.ui 1 0 2018-09-19 11:38:32.629
+!MESSAGE Detected compressed references, because with uncompressed 64-bit references the array at 0xfe00f970 would overlap the array at 0xfe00f920
+
+!ENTRY org.eclipse.mat.ui 1 0 2018-09-19 11:38:32.754
+!MESSAGE Wrote threads call stacks to C:\Users\Administrator\Desktop\my-project\JVM\JVMMonitorAndTuning\内存溢出文档\java_pid4176.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2018-09-19 11:38:32.803
+!MESSAGE Heap C:\Users\Administrator\Desktop\my-project\JVM\JVMMonitorAndTuning\内存溢出文档\java_pid4176.hprof contains 539,194 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2018-09-19 11:38:33.453
+!MESSAGE Removed 36,301 unreachable objects using 1,382,344 bytes
